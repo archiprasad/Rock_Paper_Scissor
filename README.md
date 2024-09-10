@@ -2,13 +2,13 @@
 This project is a Python-based implementation of the classic "Rock, Paper, Scissors" game, where you play against the computer. 
 
 # The choices are as follows:
-Rock
-Paper
-Scissors
+Rock,Paper and Scissors
 
 # Key Features:
 **Random Computer Choice:** The computer randomly selects between Rock, Paper, and Scissors each round.
+
 **Player Input:** The player enters their choice using abbreviations (r for Rock, p for Paper, s for Scissors). The input is mapped to a numerical value for comparison.
+
 **Outcome Display:** After both the player and computer have made their choices, the game displays:
 The player's choice
 The computer's choice
